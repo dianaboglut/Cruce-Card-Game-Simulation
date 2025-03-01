@@ -1,0 +1,14 @@
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.exe
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.deps.json
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.runtimeconfig.json
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.runtimeconfig.dev.json
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.dll
+C:\Users\boglu\source\repos\JocCruce\JocCruce\bin\Debug\netcoreapp3.1\JocCruce.pdb
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.csproj.AssemblyReference.cache
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.AssemblyInfoInputs.cache
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.AssemblyInfo.cs
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.csproj.CoreCompileInputs.cache
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.dll
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.pdb
+C:\Users\boglu\source\repos\JocCruce\JocCruce\obj\Debug\netcoreapp3.1\JocCruce.genruntimeconfig.cache
