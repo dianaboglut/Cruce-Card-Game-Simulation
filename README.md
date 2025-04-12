@@ -40,6 +40,5 @@ Visual Studio 2019 or any C compiler.
 ![image](https://github.com/user-attachments/assets/600b29b6-8a88-4f00-860e-e57727c3fe36)
 ![image](https://github.com/user-attachments/assets/6b12de08-e2c1-4293-82b6-21a8dd0f8f9f)
 ![image](https://github.com/user-attachments/assets/3070dfc8-b11b-4380-9db8-e509f5820027)
-![Screenshot 2025-03-23 222621](https://github.com/user-attachments/assets/7e61f3de-ae9e-4a39-b380-6ce0d74d12e2)
 
 
